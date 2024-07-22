@@ -1,0 +1,13 @@
+ws,normal,100,false
+ww,VIP,1100,false
+wss,normal,0,false
+p,normal,0,false
+mm,normal,0,false
+wsws,normal,0,false
+ppp,normal,0,false
+chienhow,normal,0,false
+xy,guest,300,false
+as,guest,0,false
+angus,guest,0,false
+f,guest,100,false
+g,guest,0,false
